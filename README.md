@@ -6,6 +6,8 @@ Here are the meanings and examples for each of the data types and scales of meas
 
 ## **Qualitative Data**
 **Definition**: Non-numerical data that describes qualities or categories. It is often descriptive and cannot be measured in numbers.
+**A qualitative variable is. a categorical variable**
+
 
 ### Examples:
 1. Eye color (e.g., blue, green, brown)
@@ -74,6 +76,7 @@ Here are the meanings and examples for each of the data types and scales of meas
 
 ## **Nominal Data**
 **Definition**: Qualitative data with no inherent order or ranking among the categories.
+A nominal variable is a category.
 
 ### Examples:
 1. Types of fruit (e.g., apple, banana, orange)
@@ -86,8 +89,8 @@ Here are the meanings and examples for each of the data types and scales of meas
 8. Sports teams (e.g., Lakers, Yankees)
 9. Programming languages (e.g., Python, JavaScript)
 10. Types of flowers (e.g., rose, tulip)
-
----
+11.Biological species (taxonomic classification)
+12. A survey of the eye colour of this class 
 
 ## **Ordinal Data**
 **Definition**: Qualitative data with an inherent order or ranking among the categories but without consistent intervals between them.
@@ -103,7 +106,7 @@ Here are the meanings and examples for each of the data types and scales of meas
 8. Hotel star ratings (1-star to 5-star hotels)
 9. Priority levels for tasks (low priority to high priority)
 10. Fitness levels in competitions (beginner to advanced)
-
+11.A rating (1 to 5) of how much you agree (1) or disagree (5) with the statement “Data is the new oil” 
 ---
 
 ## **Interval Data**
@@ -116,6 +119,7 @@ Here are the meanings and examples for each of the data types and scales of meas
 4. SAT scores
 5. pH levels on the acidity scale
 6-10: These are less common; interval scales are primarily used for specific scientific or standardized measurements like those above.
+11.The temperature in Dublin over the last seven days 
 
 ---
 
@@ -128,7 +132,4 @@ Here are the meanings and examples for each of the data types and scales of meas
    - Height 
    - Income
 
-Sources
-[1] 19CA682A.pdf https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/41669035/8404d161-8d48-47d9-8045-da6d3eac45bc/19CA682A.pdf
-[2] 20CA682.pdf https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/41669035/52510494-8c1d-4df0-863d-fccefbfe532d/20CA682.pdf
-[3] 22CA682DR.pdf https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/41669035/1316355b-e99a-4159-81cf-9eca3080f08c/22CA682DR.pdf
+11.How many cups of coffee (or tea!) you drink in a day 
